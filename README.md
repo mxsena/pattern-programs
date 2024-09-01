@@ -10,9 +10,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
-
----
-
-<p align="justify">This collection is designed for developers, students, and coding enthusiasts who want to sharpen their programming skills by tackling a variety of pattern-based challenges. These challenges are perfect for improving your understanding of loops, conditionals, and algorithmic thinking. Whether you’re a beginner looking to strengthen your foundation or an experienced coder seeking to test your skills, this repository offers something for everyone.</p>
-
----
