@@ -1,5 +1,4 @@
-=begin
-―――――――― PATTERN 001
+=begin Pattern #001
 
 .       * * * * *
 .       * * * * *
@@ -7,7 +6,6 @@
 .       * * * * *
 .       * * * * *
 
-――――――――――――――――――――
 =end
 
 def create_pattern(rows, columns)
