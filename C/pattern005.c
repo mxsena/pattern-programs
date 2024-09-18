@@ -1,13 +1,3 @@
-/* Pattern #005
-
-.       5 4 3 2 1
-.       5 4 3 2 1
-.       5 4 3 2 1
-.       5 4 3 2 1
-.       5 4 3 2 1
-
-*/
-
 #include <stdio.h>
 
     int main(void) {

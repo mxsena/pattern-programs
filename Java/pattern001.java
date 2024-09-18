@@ -1,13 +1,3 @@
-/* Pattern #001
-
-.       * * * * *
-.       * * * * *
-.       * * * * *
-.       * * * * *
-.       * * * * *
-
-*/
-
 package Java;
 
 public class pattern001 {

@@ -1,13 +1,3 @@
-/* Pattern #001
-
-.       * * * * *
-.       * * * * *
-.       * * * * *
-.       * * * * *
-.       * * * * *
-
-*/
-
 #include <iostream>
 
 int main(void) {
