@@ -1,6 +1,5 @@
 // Pattern Programs n.003 [c]
-// Author: https://github.com/mxsena
-
+// Author: Matheus Sena (https://github.com/mxsena)
 #include <stdio.h>
 
 int main(void)
