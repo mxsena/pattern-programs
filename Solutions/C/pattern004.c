@@ -1,3 +1,5 @@
+// Pattern Programs n.004 [c]
+// Author: https://github.com/mxsena
 #include <stdio.h>
 
 int main(void)
