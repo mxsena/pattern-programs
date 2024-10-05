@@ -1,6 +1,5 @@
 // Pattern Programs n.002 [c]
 // Author: https://github.com/mxsena
-
 #include <stdio.h>
 
 int main(void)
