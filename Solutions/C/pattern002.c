@@ -1,3 +1,6 @@
+// Pattern Programs n.002 [c]
+// Author: https://github.com/mxsena
+
 #include <stdio.h>
 
 int main(void)
@@ -8,9 +11,4 @@ int main(void)
     {
         for (j = 1; j <= 5; j++)
         {
-            printf("%d", i);
-        }
-        printf("\n");
-    }
-    return 0;
-}
+            pri
