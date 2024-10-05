@@ -11,4 +11,9 @@ int main(void)
     {
         for (j = 1; j <= 5; j++)
         {
-            pri
+            printf("%d", i);
+        }
+        printf("\n");
+    }
+    return 0;
+}

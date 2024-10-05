@@ -11,4 +11,9 @@ int main(void)
     {
         for (j = 0; j < 5; j++)
         {
-            
+            printf("* ");
+        }
+        printf("\n");
+    }
+    return 0;
+}
