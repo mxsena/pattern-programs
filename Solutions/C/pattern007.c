@@ -9,10 +9,4 @@ int main(void) {
 
     for (i = 1; i <= n; i++) {
         for (j = 1; j <= n; j++) {
-            printf("%2d ", x);
-            x += 2;
-        }
-        printf("\n");
-    }
-    return 0;
-}
+            printf("%2
