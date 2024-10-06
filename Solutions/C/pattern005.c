@@ -11,3 +11,8 @@ int main(void)
         for (j = 5; j >= 1; j--)
         {
             printf("%d ", j);
+        }
+        printf("\n");
+    }
+    return 0;
+}

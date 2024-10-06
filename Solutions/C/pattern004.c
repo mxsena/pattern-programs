@@ -1,5 +1,5 @@
 // Pattern Programs n.004 [c]
-// Author: Matheus Sena (https://github.com/mxsena)
+// Author: Matheus Sena (https://github.com/mxsena) 
 #include <stdio.h>
 
 int main(void)
@@ -10,4 +10,9 @@ int main(void)
     {
         for (j = 1; j <=5; j++) 
         {
- 
+            printf("%d ", i);
+        }
+        printf("\n");
+    }
+    return 0;
+}

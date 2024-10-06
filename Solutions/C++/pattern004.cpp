@@ -1,12 +1,18 @@
+// Pattern Programs n.004 [cpp]
+// Author: Matheus Sena (https://github.com/mxsena)
 #include <iostream>
 using namespace std;
-int main(void){
+
+int main(void)
+{
     int i, j;
-    for (i=5;i>=1;i--){
-        for(j=1;j<=5;j++){
-            cout<<i;
+    for (i = 5; i >= 1; i--)
+    {
+        for (j = 1; j <= 5; j++)
+        {
+            cout << i;
         }
-        cout<<endl;
+        cout << endl;
     }
     return 0;
 }
