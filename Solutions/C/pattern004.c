@@ -1,4 +1,4 @@
-// Pattern Programs n.004 [C]
+// Pattern Programs - 004 [C]
 // Github Repository: https://github.com/mxsena/pattern-programs
 #include <stdio.h>
 
