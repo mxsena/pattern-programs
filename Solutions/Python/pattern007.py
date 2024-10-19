@@ -1,3 +1,5 @@
+# Pattern Programs n.007 [Python]
+# Github Repository: https://github.com/mxsena/pattern-programs
 n = 5
 p = 1
 
