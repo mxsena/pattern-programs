@@ -1,5 +1,5 @@
-// Pattern Programs n.001 [cpp]
-// Author: Matheus Sena (https://github.com/mxsena)
+// Pattern Programs - 001 [C++]
+// Github Repository: https://github.com/mxsena/pattern-programs
 #include <iostream>
 using namespace std;
 

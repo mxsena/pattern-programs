@@ -1,3 +1,5 @@
+// Pattern Programs - 008 [C++]
+// Github Repository: https://github.com/mxsena/pattern-programs
 #include <iostream>
 using namespace std;
 int main(void){
