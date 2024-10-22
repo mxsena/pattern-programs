@@ -1,3 +1,5 @@
+// Pattern Programs - 006 [JavaScript]
+// Github Repository: https://github.com/mxsena/pattern-programs
 let pattern = ""
 let n = 5
 let k = 1

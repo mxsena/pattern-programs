@@ -1,3 +1,5 @@
+// Pattern Programs - 005 [JavaScript]
+// Github Repository: https://github.com/mxsena/pattern-programs
 let pattern = ""
 
 for (let i = 5; i >= 1; i--) {
